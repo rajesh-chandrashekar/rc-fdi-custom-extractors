@@ -50,7 +50,7 @@ Key capabilities include:
 1. Unzip the SDK archive:
 
     ```bash
-    unzip fdi-extractor-sdk-24.5.0-SNAPSHOT.zip
+    unzip fdi-extractor-sdk-25.2.0-SNAPSHOT.zip
     ```
 
 2. Review the SDK contents:
@@ -75,7 +75,7 @@ Key capabilities include:
 Use Maven to scaffold a new extractor project:
 
 ```bash
-mvn archetype:generate    -DarchetypeCatalog=internal    -DarchetypeGroupId=com.oracle.faw.extractservice    -DarchetypeArtifactId=extractservice-archetype    -DarchetypeVersion=24.5.0-SNAPSHOT    -DgroupId=oracle.apps.bi.extractservice.extract.impl    -DartifactId=customextract    -Dversion=1.0-SNAPSHOT
+mvn archetype:generate    -DarchetypeCatalog=internal    -DarchetypeGroupId=com.oracle.faw.extractservice    -DarchetypeArtifactId=extractservice-archetype    -DarchetypeVersion=25.2.0-SNAPSHOT    -DgroupId=oracle.apps.bi.extractservice.extract.impl    -DartifactId=customextract    -Dversion=1.0-SNAPSHOT
 ```
 
 ### Project Structure

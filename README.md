@@ -50,7 +50,7 @@ Key capabilities include:
 1. Unzip the SDK archive:
 
     ```bash
-    unzip fdi-extractor-sdk-24.5.0-SNAPSHOT.zip
+    unzip fdi-extractor-sdk-26.5.0-SNAPSHOT.zip
     ```
 
 2. Review the SDK contents:
